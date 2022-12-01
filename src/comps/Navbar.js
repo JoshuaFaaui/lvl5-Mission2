@@ -19,15 +19,14 @@ export default function Navbar() {
           <h1 className="ml-3 bold text-xl">Guest</h1>
         </div>
         <ul className="flex mt-5">
-          <li
-            className="flex ml-6 mr-6 hover:cursor-pointer"
-            id="HomeTab"
-          >
-            <Link to="/">
+          <li className="flex ml-6 mr-6 hover:cursor-pointer" id="HomeTab">
+            <Link
+              to="/lvl5-Mission2"
+            >
               <AiOutlineHome className="relative mt-1" />
             </Link>
             <Link
-              to="/"
+              to="/lvl5-Mission2"
               className="sm:hidden md:block hover:cursor-pointer"
             >
               Home
@@ -37,11 +36,11 @@ export default function Navbar() {
             className="flex ml-6 mr-6 hover:cursor-pointer hover:underline"
             id="SearchTab"
           >
-            <Link to="/Bingsearch">
+            <Link to="/lvl5-Mission2/Bingsearch">
               <BsSearch className="relative mt-1" />
             </Link>
             <Link
-              to="/Bingsearch"
+              to="/lvl5-Mission2/Bingsearch"
               className="sm:hidden md:block hover:cursor-pointer"
             >
               Search

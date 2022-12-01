@@ -4,9 +4,8 @@ import Bingsearch from './pages/Blingsearch'
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/Bingsearch" element={<Bingsearch />} />
-      <Route path="/Bingsearch/:category" element={<Bingsearch />} />
+      <Route path="/lvl5-Mission2" element={<Home />} />
+      <Route path="/lvl5-Mission2/Bingsearch" element={<Bingsearch />} />
     </Routes>
   );
 }
