@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lvl5-Mission2/static/css/main.a94a3322.css",
+    "main.js": "/lvl5-Mission2/static/js/main.16283123.js",
+    "static/js/787.6fe889a1.chunk.js": "/lvl5-Mission2/static/js/787.6fe889a1.chunk.js",
+    "index.html": "/lvl5-Mission2/index.html",
+    "main.a94a3322.css.map": "/lvl5-Mission2/static/css/main.a94a3322.css.map",
+    "main.16283123.js.map": "/lvl5-Mission2/static/js/main.16283123.js.map",
+    "787.6fe889a1.chunk.js.map": "/lvl5-Mission2/static/js/787.6fe889a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a94a3322.css",
+    "static/js/main.16283123.js"
+  ]
+}
